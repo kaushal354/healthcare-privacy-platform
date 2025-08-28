@@ -1,0 +1,6 @@
+Patient Name: John Smith
+Date of Birth: 01/15/1980
+Phone: 555-123-4567
+Email: john.smith@example.com
+
+This is a sample patient record for John Smith. He was admitted on 08/28/2025 for a routine check-up. His address is 123 Main St, Anytown, USA. His insurance provider is Blue Cross Blue Shield, policy number ABC123456789.
